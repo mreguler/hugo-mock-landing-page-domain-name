@@ -38,4 +38,4 @@ All logs are discarded in every release.
 
 [Contact us](/hugo-bootstrap-theme/contact/) if you have any questions.
 
-Effective Date: *15th May 2022*
+Effective Date: *March 15, 2024*
